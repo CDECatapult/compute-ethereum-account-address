@@ -1,6 +1,6 @@
 {
   "name": "@digicat/compute-ethereum-account-address",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utility that computes an Ethereum account address given a compressed public key",
   "main": "index.js",
   "files": [
